@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Navigation Suite">
+  <parameter name="browser" value="Chrome"/>
+  <parameter name="url" value="https://listado.mercadolibre.com.ar/"/>
+  <test name="Simple Test">
+  <classes>
+	  <class name="web.TC0005_Navigation_TitleAndPriceComparison" />
+  </classes>
+  </test> 
+</suite> 

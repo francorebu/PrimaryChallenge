@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+    <line>
+      <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233432.png'<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233433.png'<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233434.png'<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233438.png'<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233451.png'<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233452.png'<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233453.png'<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233456.png'<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233509.png'<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233510.png'<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233510.png'<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233513.png'<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233526.png'<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233527.png'<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233527.png'<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233530.png'<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233543.png'<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233544.png'<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233544.png'<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233549.png'<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233553.png'<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233556.png'<br>]]>
+    </line>
+  </reporter-output>
+  <suite name="Navigation Suite" duration-ms="98496" started-at="2020-01-30T23:34:18 ART" finished-at="2020-01-30T23:35:57 ART">
+    <groups>
+    </groups>
+    <test name="Simple Test" duration-ms="98496" started-at="2020-01-30T23:34:18 ART" finished-at="2020-01-30T23:35:57 ART">
+      <class name="web.TC0003_Navigation_HerramientaseIndustria">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:web.TC0003_Navigation_HerramientaseIndustria@2173f6d9]" name="setUp" is-config="true" duration-ms="11585" started-at="2020-01-30T23:34:57 ART" finished-at="2020-01-30T23:35:09 ART">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://listado.mercadolibre.com.ar/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TC0003NavigationHerramientaseIndustria()[pri:0, instance:web.TC0003_Navigation_HerramientaseIndustria@2173f6d9]" name="TC0003NavigationHerramientaseIndustria" duration-ms="4613" started-at="2020-01-30T23:35:09 ART" finished-at="2020-01-30T23:35:13 ART">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233509.png'<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233510.png'<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233510.png'<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233513.png'<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC0003NavigationHerramientaseIndustria -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:web.TC0003_Navigation_HerramientaseIndustria@2173f6d9]" name="tearDown" is-config="true" duration-ms="879" started-at="2020-01-30T23:35:13 ART" finished-at="2020-01-30T23:35:14 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- web.TC0003_Navigation_HerramientaseIndustria -->
+      <class name="web.TC0002_Navigation_HogaryElectro">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:web.TC0002_Navigation_HogaryElectro@7e2d773b]" name="setUp" is-config="true" duration-ms="11597" started-at="2020-01-30T23:34:39 ART" finished-at="2020-01-30T23:34:51 ART">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://listado.mercadolibre.com.ar/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TC0002NavigationHogaryElectro()[pri:0, instance:web.TC0002_Navigation_HogaryElectro@7e2d773b]" name="TC0002NavigationHogaryElectro" duration-ms="5248" started-at="2020-01-30T23:34:51 ART" finished-at="2020-01-30T23:34:56 ART">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233451.png'<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233452.png'<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233453.png'<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233456.png'<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC0002NavigationHogaryElectro -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:web.TC0002_Navigation_HogaryElectro@7e2d773b]" name="tearDown" is-config="true" duration-ms="893" started-at="2020-01-30T23:34:56 ART" finished-at="2020-01-30T23:34:57 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- web.TC0002_Navigation_HogaryElectro -->
+      <class name="web.TC0001_Navigation_Tecnologia">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:web.TC0001_Navigation_Tecnologia@4d50efb8]" name="setUp" is-config="true" duration-ms="13563" started-at="2020-01-30T23:34:18 ART" finished-at="2020-01-30T23:34:32 ART">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://listado.mercadolibre.com.ar/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TC0001NavigationTecnologia()[pri:0, instance:web.TC0001_Navigation_Tecnologia@4d50efb8]" name="TC0001NavigationTecnologia" duration-ms="6508" started-at="2020-01-30T23:34:32 ART" finished-at="2020-01-30T23:34:38 ART">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233432.png'<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233433.png'<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233434.png'<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233438.png'<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC0001NavigationTecnologia -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:web.TC0001_Navigation_Tecnologia@4d50efb8]" name="tearDown" is-config="true" duration-ms="905" started-at="2020-01-30T23:34:38 ART" finished-at="2020-01-30T23:34:39 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- web.TC0001_Navigation_Tecnologia -->
+      <class name="web.TC0004_Navigation_JuguetesyBebes">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:web.TC0004_Navigation_JuguetesyBebes@307f6b8c]" name="setUp" is-config="true" duration-ms="11247" started-at="2020-01-30T23:35:14 ART" finished-at="2020-01-30T23:35:25 ART">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://listado.mercadolibre.com.ar/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TC0004NavigationCuartosDelBebe()[pri:0, instance:web.TC0004_Navigation_JuguetesyBebes@307f6b8c]" name="TC0004NavigationCuartosDelBebe" duration-ms="4938" started-at="2020-01-30T23:35:25 ART" finished-at="2020-01-30T23:35:30 ART">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233526.png'<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233527.png'<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233527.png'<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233530.png'<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC0004NavigationCuartosDelBebe -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:web.TC0004_Navigation_JuguetesyBebes@307f6b8c]" name="tearDown" is-config="true" duration-ms="897" started-at="2020-01-30T23:35:30 ART" finished-at="2020-01-30T23:35:31 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- web.TC0004_Navigation_JuguetesyBebes -->
+      <class name="web.TC0005_Navigation_TitleAndPriceComparison">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:web.TC0005_Navigation_TitleAndPriceComparison@7a187f14]" name="setUp" is-config="true" duration-ms="11369" started-at="2020-01-30T23:35:31 ART" finished-at="2020-01-30T23:35:42 ART">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://listado.mercadolibre.com.ar/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TC0001NavigationTecnologia()[pri:0, instance:web.TC0005_Navigation_TitleAndPriceComparison@7a187f14]" name="TC0001NavigationTecnologia" duration-ms="13321" started-at="2020-01-30T23:35:42 ART" finished-at="2020-01-30T23:35:56 ART">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233543.png'<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233544.png'<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233544.png'<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233549.png'<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233553.png'<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src='C:\Automation\Primary\Screenshots\20200130_233556.png'<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC0001NavigationTecnologia -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:web.TC0005_Navigation_TitleAndPriceComparison@7a187f14]" name="tearDown" is-config="true" duration-ms="854" started-at="2020-01-30T23:35:56 ART" finished-at="2020-01-30T23:35:57 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- web.TC0005_Navigation_TitleAndPriceComparison -->
+    </test> <!-- Simple Test -->
+  </suite> <!-- Navigation Suite -->
+</testng-results>
