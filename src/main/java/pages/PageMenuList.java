@@ -10,7 +10,7 @@ public class PageMenuList {
 	WebDriver driver;
 	GenericMethods gm= new GenericMethods(driver);
 	
-	By categorias      = By.xpath("//a[contains(@class,'categories-link')]");
+    private static By categorias      = By.xpath("//a[contains(@class,'categories-link')]");
 
 	
 	public PageMenuList(WebDriver driver) throws Exception{

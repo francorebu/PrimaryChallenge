@@ -3,13 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="web.TC0001_Navigation_Tecnologia">
+      <class name="rest.TC0002">
         <methods>
-          <include name="tearDown"/>
-          <include name="setUp"/>
-          <include name="TC0001NavigationTecnologia"/>
+          <include name="TC0002"/>
         </methods>
-      </class> <!-- web.TC0001_Navigation_Tecnologia -->
+      </class> <!-- rest.TC0002 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -5,13 +5,11 @@
   <parameter name="url" value="https://listado.mercadolibre.com.ar/"/>
   <test thread-count="5" name="Simple Test(failed)">
     <classes>
-      <class name="web.TC0001_Navigation_Tecnologia">
+      <class name="rest.TC0002">
         <methods>
-          <include name="tearDown"/>
-          <include name="setUp"/>
-          <include name="TC0001NavigationTecnologia"/>
+          <include name="TC0001_getProducts"/>
         </methods>
-      </class> <!-- web.TC0001_Navigation_Tecnologia -->
+      </class> <!-- rest.TC0002 -->
     </classes>
   </test> <!-- Simple Test(failed) -->
 </suite> <!-- Failed suite [Navigation Suite] -->
